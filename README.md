@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student and backend developer from Nigeria</h3>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crafter-deo&label=Profile%20views&color=0e75b6&style=flat" alt="crafter-deo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafter-deo&label=Profile%20views&color=0e75b6&style=flat" alt="crafter-deo" /> </p> -->
 
 
 - 🌱 I’m currently learning **Node JS**
