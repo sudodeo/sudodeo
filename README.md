@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 📫 How to reach me: [Gmail](mailto:adesolaadeoluwa@gmail.com)
+- 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
 - 💬 Ask me about: Python, Web scraping
 
