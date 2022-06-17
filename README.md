@@ -13,7 +13,7 @@
 
 - 👯 Open to collaborations, contact me 👍
 
-- ⚡ Fun fact: I'm like a door that can lead you anywhere as long as the right key is used 😁
+- ⚡ Fun fact: I'm a musician 😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
