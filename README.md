@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
-- 💬 Ask me about: Python, Web scraping
+- 💬 Ask me about: Python, Web scraping, APIs
 
 - 👯 Open to collaborations, contact me 👍
 
