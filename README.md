@@ -5,6 +5,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafter-deo&label=Profile%20views&color=0e75b6&style=flat" alt="crafter-deo" /> </p> -->
 
 
+- 🔭 I’m currently working on **Gizmo**(discord bot).
+
 - 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
