@@ -15,7 +15,7 @@
 
 - 👯 Open to collaborations, contact me 👍
 
-- ⚡ Fun fact: I'm a musician 😁
+- ⚡ Fun fact: I'm a musician 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
