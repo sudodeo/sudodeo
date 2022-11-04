@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student and backend developer</h3>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500"/>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafter-deo&label=Profile%20views&color=0e75b6&style=flat" alt="crafter-deo" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="sudodeo" /> </p> -->
 
 
 - 🔭 I’m currently working on **Gizmo**(discord bot).
@@ -41,6 +41,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" title="git"/> </a>
 </div></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crafter-deo&layout=compact&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudodeo&layout=compact&theme=gotham">
 
-<img src="https://github-readme-stats.vercel.app/api?username=crafter-deo&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=crafter-deo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=sudodeo&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudodeo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
