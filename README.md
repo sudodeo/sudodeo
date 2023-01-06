@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gizmo**(discord bot).
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
