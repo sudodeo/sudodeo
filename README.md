@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="sudodeo" /> </p> -->
 
 
-- 🔭 I’m currently working on **Gizmo**(discord bot).
+- 🔭 I’m currently working on **.NET web app**.
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
