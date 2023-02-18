@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
-- 💬 Ask me about: Python, Web scraping, APIs
+- 💬 Ask me about: Python, Botting, Web Automation, Web scraping, APIs
 
 - 👯 Open to collaborations, contact me 👍
 
