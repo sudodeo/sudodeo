@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **.NET web app**.
 
-- 🌱 I’m currently learning **Multiprocessing and concurrency**
+- 🌱 I’m currently learning **Database design**
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
