@@ -48,7 +48,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudodeo&layout=compact&theme=gotham&langs_count=6">
 
-[![sudodeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grim_reaper&layout=compact&theme=gotham&langs_count=6&custom_title=sudodeo's%20wakatime%20weekly%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![sudodeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grim_reaper&layout=compact&theme=gotham&langs_count=6&custom_title=sudodeo's%20wakatime%20weekly%20stats&ra&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 <img src="https://github-readme-stats.vercel.app/api?username=sudodeo&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&custom_title=sudodeo's%20github%20stats&hide=stars" >
 
