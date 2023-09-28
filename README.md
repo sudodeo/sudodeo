@@ -5,9 +5,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="sudodeo" /> </p> -->
 
 
-- 🔭 I’m currently working on **[StoreX](https://github.com/sudodeo/storeX)**.
+- 🔭 I’m currently working on **[Doppler Golang SDK](https://github.com/dilutedev/doppler)**.
 
-- 🌱 I’m currently learning **Database design**
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
 
