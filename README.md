@@ -32,7 +32,7 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="40" height="40" title="nodejs"/> </a> 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" alt="expressjs" width="40" height="40" title="expressjs"/> </a>
 <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40" title="fastapi"/> </a> -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="mongodb" width="40" height="40" title="mongodb"/> </a>
+<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="mongodb" width="40" height="40" title="mongodb"/> </a> -->
 
 </div>
 
