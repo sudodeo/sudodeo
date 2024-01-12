@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📫 How to reach me: [Email](mailto:adesolaadeoluwa@gmail.com)
+- 📫 How to reach me: [Email](mailto:sudodeo@gmail.com)
 
 - 💬 Ask me about: Python, Botting, Web Automation, Web scraping, APIs
 
