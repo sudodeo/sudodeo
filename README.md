@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudodeo&label=Profile%20views&color=0e75b6&style=flat" alt="sudodeo" /> </p> -->
 
 
-- 🔭 I’m currently working on **[SplitCrew](https://github.com/sudodeo/splitcrew-API)**.
+- 🔭 I’m currently working on **[SplitCrew](https://github.com/sudodeo/splitcrew-API) | [betterstack-go](https://github.com/sudodeo/betterstack-go)**.
 
 - 🌱 I’m currently learning **NestJS**
 
