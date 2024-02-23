@@ -51,4 +51,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sudodeo&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&custom_title=sudodeo's%20github%20stats&hide=stars" > -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sudodeo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" align="center">
+<img src="https://streak-stats.demolab.com/?user=sudodeo&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" align="center">
